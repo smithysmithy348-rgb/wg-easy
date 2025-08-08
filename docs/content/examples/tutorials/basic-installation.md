@@ -1,4 +1,4 @@
----
+---not public 
 title: Basic Installation
 ---
 
